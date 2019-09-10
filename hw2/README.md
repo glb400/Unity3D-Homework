@@ -2,6 +2,8 @@
 
 视频链接
 
+https://www.bilibili.com/video/av67211208/
+
 ### part1 component
 
 1. 挂载对象MountObject
