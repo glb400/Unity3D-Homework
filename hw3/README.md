@@ -1,5 +1,7 @@
 ## part2 编程实践
 
+video : https://www.bilibili.com/video/av68198732
+
 阅读以下游戏脚本
 >Priests and Devils
 >
