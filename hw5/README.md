@@ -1,5 +1,7 @@
 ## 编写一个简单的鼠标打飞碟（Hit UFO）游戏
 
+video : https://www.bilibili.com/video/av69366111
+
 + 游戏内容要求：
     1. 游戏有 n 个 round，每个 round 都包括10 次 trial；
     2. 每个 trial 的飞碟的色彩、大小、发射位置、速度、角度、同时出现的个数都可能不同。它们由该 round 的 ruler 控制；
