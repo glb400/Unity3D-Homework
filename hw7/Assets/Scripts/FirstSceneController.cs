@@ -4,16 +4,16 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 public class FirstSceneController : MonoBehaviour, IUserAction, ISceneController
 {
-    public PropFactory patrol_factory;                               //巡逻者工厂
-    public ScoreRecorder recorder;                                   //记录员
-    public PatrolActionManager action_manager;                       //运动管理器
-    public int wall_sign = -1;                                       //当前玩家所处哪个格子
-    public GameObject player;                                        //玩家
-    public Camera main_camera;                                       //主相机
-    public float player_speed = 5;                                   //玩家移动速度
-    public float rotate_speed = 135f;                                //玩家旋转速度
-    private List<GameObject> patrols;                                //场景中巡逻者列表
-    private bool game_over = false;                                  //游戏结束
+    public PropFactory patrol_factory;                               
+    public ScoreRecorder recorder;                                   
+    public PatrolActionManager action_manager;                       
+    public int wall_sign = -1;                                       
+    public GameObject player;                                        
+    public Camera main_camera;                                       
+    public float player_speed = 5;                                   
+    public float rotate_speed = 135f;                                
+    private List<GameObject> patrols;                                
+    private bool game_over = false;                                  
 
     void Update()
     {
